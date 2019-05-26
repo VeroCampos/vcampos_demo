@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0 auto;
+}
+#wrapper{
+    min-width: 800px;
+}
+#main{
+    display: inline-block;
+    min-width: 750px;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 2px;
+    border: 1px solid black;
+    box-shadow: -12px 12px;
+    
+}
+.header{
+    margin: 12px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(13, 15, 143);
+    text-align: center;
+}
+p{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
